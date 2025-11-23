@@ -85,3 +85,15 @@ Matplotlib
 CNN for deep learning
 
 Jupyter Notebook
+
+📝 Resume Project Description (Point-Wise, 3–5 Points)
+
+Built a CNN-based deep learning model using TensorFlow/Keras to classify 36 fruit and vegetable categories with 95%+ validation accuracy.
+
+Preprocessed and structured dataset into train/validation/test splits and applied image augmentation & rescaling techniques.
+
+Designed and trained a multi-layer CNN with Conv2D, MaxPooling, Dropout, and Dense layers for accurate classification.
+
+Visualized model training performance using accuracy/loss curves and implemented softmax-based prediction for real images.
+
+Exported and saved the trained model (Image_classify.keras) for deployment and future inference.
